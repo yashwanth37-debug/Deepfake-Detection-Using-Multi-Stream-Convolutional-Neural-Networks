@@ -5,6 +5,7 @@ In this work, we propose a novel multi-stream convolutional neural network archi
 ## Proposed Architecture
 
 ![Proposed Architecture](https://github.com/yashwanth37-debug/Deepfake-Detection-Using-Multi-Stream-Convolutional-Neural-Networks/blob/main/Assets/ChatGPT%20Image%20Apr%2019%2C%202025%20at%2009_13_16%20PM.png)
-
+![Accuracies on Different Datasets](https://github.com/yashwanth37-debug/Deepfake-Detection-Using-Multi-Stream-Convolutional-Neural-Networks/blob/main/Assets/Accracies.jpeg)
+![Report](https://github.com/yashwanth37-debug/Deepfake-Detection-Using-Multi-Stream-Convolutional-Neural-Networks/blob/main/Assets/Metrics.jpeg)
 For more detailed information, please refer to our research paper:  
 👉 [Download Report](https://github.com/yashwanth37-debug/Deepfake-Detection-Using-Multi-Stream-Convolutional-Neural-Networks/blob/main/DeepFake_Detection_Paper.pdf)
